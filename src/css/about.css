@@ -1,0 +1,19 @@
+.MuiTab-root {
+  min-width: none;
+}
+
+.css-2b097c-container {
+  width: 100%;
+  color: rgb(51, 51, 51);
+}
+
+@media(max-width: 900px) {
+  .leftSide {
+    /* display: none; */
+  }
+
+  .makeStyles-container-9 {
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+  }
+}

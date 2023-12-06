@@ -1,0 +1,91 @@
+.MuiAlert-message {
+  background-color: #141722;
+}
+
+.MuiAlert-action {
+  background-color: #141722;
+  margin-right: 0px !important;
+  padding-left: 90% !important;
+}
+
+.tradingview-widget-copyright {
+  color: #141722 !important;
+}
+
+.MuiBox-root {
+  padding: 0px !important;
+}
+
+.MuiTableBody-root {
+  border-color: '#000';
+}
+
+.WithStyles\(ForwardRef\(TableCell\)\)-body-55 {
+  background-color: #1C1C1C;
+  color: #fff;
+  border-color: #000;
+  border: 1px solid #000;
+}
+
+.MuiTableBody-root {
+  color: #fff;
+}
+
+.MuiAlert-root {
+  /* margin: 10px; */
+  margin-bottom: 0px !important;
+}
+
+.MuiAlert-message {
+  padding: 0px !important;
+}
+
+.MuiTab-wrapper {
+  color: #fff !important
+}
+
+.MuiTypography-colorPrimary {
+  color: #f4e17a !important;
+}
+
+.MuiTab-textColorPrimary.Mui-selected {
+  border: 1px solid #fff;
+  background-color: #141414 !important;
+  border-radius: 0.25rem;
+}
+
+.MuiTabs-indicator {
+  background-color: #fff !important;
+}
+
+.MuiTabs-flexContainer .MuiTabs-centered {
+  border-bottom: 1px solid #000000;
+}
+
+.MuiSelect-selectMenu {
+  width: 200px !important;
+}
+
+.App > .chart-container {
+  height: 285px;
+}
+
+.tv-lightweight-charts > table {
+  background-color: #141722;
+}
+
+#scrollable-auto-tabpanel-0 > div > p > div > table > tbody > tr > th {
+  cursor: pointer;
+}
+
+#scrollable-auto-tabpanel-0 > div > p > div > table > tbody > tr > th:hover {
+  text-decoration: underline;
+}
+
+#scrollable-auto-tabpanel-1 > div > p > div > table > tbody > tr > th {
+  cursor: pointer;
+}
+
+#scrollable-auto-tabpanel-1 > div > p > div > table > tbody > tr > th:hover {
+  text-decoration: underline;
+}

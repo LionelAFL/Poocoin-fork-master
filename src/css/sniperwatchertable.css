@@ -1,0 +1,11 @@
+tr {
+  height: 50px;
+}
+
+tr td {
+  height: auto !important;
+}
+
+p {
+  padding: 0;
+}

@@ -1,0 +1,17 @@
+[
+    {
+        "address": "0xB758EAC6F533e26974366b32c2FeB277E5e82daB",
+        "name": "Wrapped Primal",
+        "symbol": "WPRM"
+    },
+    {
+        "address": "0x0b792D96187262b9256F1ace7Bc964E888917C45",
+        "name": "Golden Hamster",
+        "symbol": "HAMSTER"
+    },
+    {
+        "address": "0xc11C087Ab5Da5C10cCb1ACcd48E5383174765bed",
+        "name": "Primex",
+        "symbol": "PRX"
+    }
+]
